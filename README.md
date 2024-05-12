@@ -1,4 +1,20 @@
+#Spazio vettoriale
 
+La motivazione per la definizione di uno spazio vettoriale deriva dalle proprietà classiche dell'addizione e della moltiplicazione scalare.
+
+Uno spazio vettoriale V è un insieme insieme all'addizione e alla moltiplicazione scalare tale che:
+
+Commutatività: u+v=v+u per tutti u,v∈V; inoltre, u+v∈V
+
+Associatività: (u+v)+w=u+(v+w) e (ab)v=a(bv) per tutti gli u,v,w∈V e tutti gli a,b∈R; inoltre, av∈V
+
+"Quello che succede a Las Vegas, rimane a Las Vegas"
+
+Identità additiva: esiste un elemento 0 ∈ V tale che v+0=v per tutti i v∈V
+
+Inverso additivo: per ogni v ∈ V , esiste w ∈ V tale che v+w=0
+
+Identità moltiplicativa: 1v = v per tutte le v ∈ V proprietà distributive: a(u + v) = au + av e (a+b)v=av+bv per tutti gli a,b∈R e tutti gli u,v∈V
 ![Generative AI For Beginners](./images/repository-thumbnail.png?WT.mc_id=academic-105485-koreyst)
 
 ### A 12 Lesson course teaching everything you need to know to start building Generative AI applications 
