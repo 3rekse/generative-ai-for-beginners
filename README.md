@@ -2,11 +2,12 @@
 
 La motivazione per la definizione di uno spazio vettoriale deriva dalle proprietà classiche dell'addizione e della moltiplicazione scalare.
 
-Uno spazio vettoriale V è un insieme insieme all'addizione e alla moltiplicazione scalare tale che:
+Uno spazio vettoriale V è un insieme con l'addizione e la moltiplicazione scalare tale che:
 
-Commutatività: u+v=v+u per tutti u,v∈V; inoltre, u+v∈V
+## Commutatività: 
+u+v=v+u per tutti u,v∈V; inoltre, u+v∈V
 
-Associatività: (u+v)+w=u+(v+w) e (ab)v=a(bv) per tutti gli u,v,w∈V e tutti gli a,b∈R; inoltre, av∈V
+## Associatività: (pu+v)+w=u+(v+w) e (ab)v=a(bv) per tutti gli u,v,w∈V e tutti gli a,b∈R; inoltre, av∈V
 
 "Quello che succede a Las Vegas, rimane a Las Vegas"
 
