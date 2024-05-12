@@ -1,4 +1,4 @@
-#Spazio vettoriale
+# Spazio vettoriale
 
 La motivazione per la definizione di uno spazio vettoriale deriva dalle proprietà classiche dell'addizione e della moltiplicazione scalare.
 
